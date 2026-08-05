@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://line.hello-ott.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/3157.ts
